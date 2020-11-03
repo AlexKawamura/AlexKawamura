@@ -6,6 +6,7 @@ I'm currently a student of Software Engineering at Universidade Tecnológica Fed
 * Some programming languages I studied
   
   <p align="left">
+    <a href="https://en.cppreference.com/w/" target="_blank">
       <img
         src="https://devicon.dev/devicon.git/icons/c/c-plain.svg"
         alt="c"
@@ -13,6 +14,7 @@ I'm currently a student of Software Engineering at Universidade Tecnológica Fed
         height="40"
       />
     </a>
+    <a href="https://en.cppreference.com/w/" target="_blank">
       <img
         src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-plain.svg"
         alt="c++"
