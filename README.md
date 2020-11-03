@@ -1,7 +1,13 @@
 # Alexandre Kawamura Tanaka
 
-## About Me
-I'm currently a student of Software Engineering at Universidade Tecnológica Federal do Paraná (UTFPR-CP). Who has interest about video games development.
+```javascript
+function aboutMe() {
+  const me = "Student";
+  const university = "Universidade Tecnológica Federal do Paraná (UTFPR-CP)";
+  const course = "Software Engineering";
+  const interests = "Video games development";
+}
+```
 
 ### Programming Languages
 
