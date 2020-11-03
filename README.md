@@ -4,24 +4,26 @@
 I'm currently a student of Software Engineering at Universidade Tecnológica Federal do Paraná (UTFPR-CP). Who has interest about video games development.
 
 ### Programming Languages
+
+Some programming languages I learned since I was first introduced to the software world:
   
-  <p align="left">
-    <a href="https://en.cppreference.com/w/" target="_blank">
-      <img
-        src="https://devicon.dev/devicon.git/icons/c/c-plain.svg"
-        alt="c"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://en.cppreference.com/w/" target="_blank">
-      <img
-        src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-plain.svg"
-        alt="c++"
-        width="40"
-        height="40"
-      />
-    </a>
+<p align="left">
+  <a href="https://en.cppreference.com/w/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/c/c-plain.svg"
+      alt="c"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://en.cppreference.com/w/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-plain.svg"
+      alt="c++"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.java.com/pt-BR/" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/java/java-original.svg"
