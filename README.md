@@ -87,3 +87,31 @@ Some programming languages I studied since I was first introduced to the softwar
     />
   </a>
 </p>
+
+### Tools, Frameworks and Others
+<p>
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/git/git-original.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
