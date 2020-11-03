@@ -3,7 +3,7 @@
 ## About Me
 I'm currently a student of Software Engineering at Universidade Tecnológica Federal do Paraná (UTFPR-CP). Who has interest about video games development.
 
-* Some programming languages I studied
+### Programming Languages
   
   <p align="left">
     <a href="https://en.cppreference.com/w/" target="_blank">
