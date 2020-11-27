@@ -11,7 +11,7 @@ function aboutMe() {
 
 ### Programming Languages
 
-Some programming languages I studied since I was first introduced to the software world:
+Some programming languages I had contact with since I started studying software programming:
   
 <p align="left">
   <a href="https://en.cppreference.com/w/" target="_blank">
